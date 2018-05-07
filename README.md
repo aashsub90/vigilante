@@ -33,9 +33,9 @@
     `python test_model.py`
   
 #### 4. Run the notebooks from the project test directory in the following order to build all the data objects and prediction models from scratch (OPTIONAL)
-  - For data exploration: data_exploration.ipynb <br/>     
-  - For data cleaning: data_cleaning.ipynb <br/>     
-  - For data preprocessing: data_preprocessing.ipynb <br/>
-  - For data analysis: data_analysis.ipynb <br/>     
-  - For training model: model_training.ipynb <br/>
-  - For prediction: data_prediction.iypnb <br/>
+  - For data exploration: `data_exploration.ipynb` <br/>     
+  - For data cleaning: `data_cleaning.ipynb` <br/>     
+  - For data preprocessing: `data_preprocessing.ipynb` <br/>
+  - For data analysis: `data_analysis.ipynb` <br/>     
+  - For training model: `model_training.ipynb` <br/>
+  - For prediction: `data_prediction.iypnb` <br/>
