@@ -127,7 +127,7 @@ def loadModel():
 	"""
 		Loads final model
 	"""
-	with open('model.pkl', 'rb') as f:
+	with open('randomForest_model.pkl', 'rb') as f:
 		model = pickle.load(f)
 	return (model)
 
