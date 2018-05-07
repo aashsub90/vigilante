@@ -22,11 +22,15 @@
     `python model_training.py`
     
 #### 3. Run the code from the project test directory to test the model on sample data
-  - Sample data: `sample.pkl` <br/> 
+  - Sample data: `sample.pkl` <br/>
+  
+  - Actual classification: `actual.pkl` <br/> 
+  
+  - Classification model: `randomForest_model.pkl` <br/>
     
   - Run the script:<br/> 
     Usage:<br/> 
-    `python test_model.py sample.pkl`
+    `python test_model.py`
   
 #### 4. Run the notebooks from the project test directory in the following order to build all the data objects and prediction models from scratch (OPTIONAL)
   - For data exploration: data_exploration.ipynb <br/>     
