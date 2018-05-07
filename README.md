@@ -25,8 +25,6 @@
   - Sample data: `sample.pkl` <br/>
   
   - Actual classification: `actual.pkl` <br/> 
-  
-  - Classification model: copy `randomForest_model.pkl` from store directory to the test directory<br/>
     
   - Run the script:<br/> 
     Usage:<br/> 

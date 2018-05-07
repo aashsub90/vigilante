@@ -167,8 +167,7 @@ X_train, X_test, y_train, y_test = train_test_split(crime_data.values, labels, t
 # In[15]:
 
 
-kNN_model = KNeighborsClassifier(algorithm='auto', leaf_size=30, metric='euclidean', metric_params=None, 
-                                 n_jobs=-1, n_neighbors=100, p=2, weights='distance')
+kNN_model = KNeighborsClassifier()
 
 
 # Define the RandomForestClassifier model.
@@ -176,12 +175,7 @@ kNN_model = KNeighborsClassifier(algorithm='auto', leaf_size=30, metric='euclide
 # In[16]:
 
 
-randomForest_model = RandomForestClassifier(bootstrap=True, class_weight=None, criterion='gini',
-          max_depth=None, max_features='sqrt', max_leaf_nodes=None,
-          min_impurity_decrease=0.0, min_impurity_split=None,
-          min_samples_leaf=1, min_samples_split=2,
-          min_weight_fraction_leaf=0.0, n_estimators=100, n_jobs=-1,
-          oob_score=False, random_state=0, verbose=0, warm_start=False)
+randomForest_model = RandomForestClassifier()
 
 
 # Define the GaussianNB model.
@@ -189,7 +183,7 @@ randomForest_model = RandomForestClassifier(bootstrap=True, class_weight=None, c
 # In[17]:
 
 
-gaussianNB_model = GaussianNB(priors=None)
+gaussianNB_model = GaussianNB()
 
 
 # ## Tuning
