@@ -2,9 +2,9 @@
 
 ### Instructions
 #### 1. Get the data
-  - Get the data from: 
+  - Get the data from: https://drive.google.com/a/sjsu.edu/file/d/1iRRgtHBiEPaD9bs-wyoRX8IotabHil-c/view?usp=sharing
   - Unzip 'data.zip' in root directory
-  - Get stored graphs and utility matrix from: 
+  - Get stored graphs and utility matrix from: https://drive.google.com/a/sjsu.edu/file/d/1jjJV-exgDGr4jUt4z7ERqERFunWN7Z04/view?usp=sharing
   - Unzip 'store.zip' in root directory
   - Create 'output' directory in root directory
 
@@ -26,7 +26,7 @@
   
   - Actual classification: `actual.pkl` <br/> 
   
-  - Classification model: `randomForest_model.pkl` <br/>
+  - Classification model: copy `randomForest_model.pkl` from store directory to the test directory<br/>
     
   - Run the script:<br/> 
     Usage:<br/> 
