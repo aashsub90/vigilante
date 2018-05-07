@@ -39,3 +39,7 @@
   - For data analysis: `data_analysis.ipynb` <br/>     
   - For training model: `model_training.ipynb` <br/>
   - For prediction: `data_prediction.iypnb` <br/>
+  
+#### 5. Setup the slack app using instructions provided in README.MD present in slackapp directory
+
+NOTE: Make sure to install all the depencies that the scripts use through out the project.
