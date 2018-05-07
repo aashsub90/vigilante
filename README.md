@@ -4,7 +4,7 @@
 #### 1. Get the data
   - Get the data from: https://drive.google.com/a/sjsu.edu/file/d/1iRRgtHBiEPaD9bs-wyoRX8IotabHil-c/view?usp=sharing
   - Unzip 'data.zip' in root directory
-  - Get stored graphs and utility matrix from: https://drive.google.com/a/sjsu.edu/file/d/1jjJV-exgDGr4jUt4z7ERqERFunWN7Z04/view?usp=sharing
+  - Get stored models and objects from: https://drive.google.com/a/sjsu.edu/file/d/1jjJV-exgDGr4jUt4z7ERqERFunWN7Z04/view?usp=sharing
   - Unzip 'store.zip' in root directory
   - Create 'output' directory in root directory
 
